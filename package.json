@@ -1,0 +1,24 @@
+{
+  "name": "nightwatchjs",
+  "version": "1.0.0",
+  "description": "Using_NodeJS_sample test",
+  "main": "newFile.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AparnaMundayat/NightwatchJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AparnaMundayat/NightwatchJS/issues"
+  },
+  "homepage": "https://github.com/AparnaMundayat/NightwatchJS#readme",
+  "devDependencies": {
+    "chromedriver": "^76.0.0",
+    "nightwatch": "^1.1.13",
+    "selenium-server": "^3.141.59"
+  }
+}
